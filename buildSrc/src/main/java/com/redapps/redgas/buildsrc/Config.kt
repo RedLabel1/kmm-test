@@ -1,0 +1,7 @@
+const val core_ktx = "1.9.0"
+const val lifecycle = "2.5.1"
+const val material = "1.4.0-beta01"
+const val material3 = "1.0.1"
+const val activity_compose = "1.6.1"
+const val compose = "1.4.0-beta01"
+const val coroutines = "1.6.4"
